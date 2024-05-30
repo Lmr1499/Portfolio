@@ -22,22 +22,22 @@ function Home2() {
               I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
-              <br />I am currently sharpening my skills in 
+              <br />I am currently sharpening my skills in
               <i>
-                <b className="purple"> Javascript  </b>
+                <b className="purple"> Javascript </b>
               </i>
               <br />
-              <br />
-              I am a passionate web developer,   &nbsp;
+              <br />I am a passionate web developer, &nbsp;
               <i>
-                <b className="purple">looking to make a difference in the world, </b> one website ,{" "}
                 <b className="purple">
-                at a time!.
-                </b>
+                  looking to make a difference in the world,{" "}
+                </b>{" "}
+                one website , <b className="purple">at a time!.</b>
               </i>
               <br />
               <br />
-              🚀 I'm a passionate web developer, constantly striving  <b className="purple">Node.js</b> 
+              🚀 I'm a passionate web developer, constantly striving{" "}
+              <b className="purple">Node.js</b>
               <i>
                 <b className="purple">
                   {" "}
