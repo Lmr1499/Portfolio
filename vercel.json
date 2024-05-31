@@ -1,0 +1,13 @@
+{
+  "headers": [
+    {
+      "source": "/Portfolio.xml",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/xml"
+        }
+      ]
+    }
+  ]
+}
